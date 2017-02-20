@@ -1,12 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 1: February 7, 2017
+### Day 1: February 19, 2017
 
-**Today's Progress**: Worked through several exercises on FCC.
+**Today's Progress**: Currently working on GitHub Pages. 
 
-**Thoughts:** So far, I have began to get the hang of using CSS properties
+**Thoughts:** Slowly getting a hang of GitHub's Markdown. This will take some time...
 
-**Link to work:** I don't have a link to provide for today. Sorry :-/
+**Link to work:** ebattles2.github.io
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
