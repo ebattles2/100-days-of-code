@@ -1,12 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 1: February 19, 2017
+### Day 1: April 17, 2017
 
-**Today's Progress**: Currently working on GitHub Pages. 
+**Today's Progress**: Working on the 1st day of #JavaScript30 
 
-**Thoughts:** Slowly getting a hang of GitHub's Markdown. This will take some time...
+**Thoughts:** I am going to be honest with myself. I am quite lost as to what to do exactly. But I will dig around on Twitter, YT, and FB to figure out what do
 
-**Link to work:** ebattles2.github.io
+**Link to work:** N/A at this time. 
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
